@@ -1,0 +1,6 @@
+{
+  "name": "Retail Sales Intelligence Dashboard",
+  "description": "Interactive Retail Sales Intelligence Dashboard with data merging, KPI analytics, multi-select filters, stockout risk tracking, and automated business insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
